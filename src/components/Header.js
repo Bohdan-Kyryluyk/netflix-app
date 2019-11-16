@@ -62,7 +62,8 @@ const HeaderComponent = styled.div`
 		line-height: normal;
 		border-radius: 0.1875rem;
   		font-size: 1rem;
-		background: var(--main-red);
+		// background: var(--main-red);
+		background: blue;
 		position: absolute;
 		translate: transform(-50%, -50%);
 		cursor: pointer;
